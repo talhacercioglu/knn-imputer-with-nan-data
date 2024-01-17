@@ -20,7 +20,8 @@ The following libraries are needed for the project:
 - scikit-learn
 
 To install the necessary libraries, you can type the following command in the terminal or command prompt:
-pip install pandas numpy matplotlib scikit-learn
+
+- pip install pandas numpy matplotlib scikit-learn
 
 ## Use
 
