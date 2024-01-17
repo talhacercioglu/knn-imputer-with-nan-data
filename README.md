@@ -14,9 +14,9 @@ This project includes the steps of creating a dataset in a Python environment, d
 
 The following libraries are needed for the project:
 
--pandas
+- pandas
 - numpy
--matplotlib
+- matplotlib
 - scikit-learn
 
 To install the necessary libraries, you can type the following command in the terminal or command prompt:
